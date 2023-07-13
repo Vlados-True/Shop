@@ -1,2 +1,2 @@
-# Shop
-
+I developed an e-commerce application using Django. 
+The application includes a product catalog and a shopping cart that utilizes Django sessions. To improve performance, I implemented asynchronous tasks using Celery and RabbitMQ. Payment processing is handled through Stripe and payment notifications are managed using webhooks. Additionally, I created PDF invoices and allowed for the export of orders to CSV format. To improve the administrative experience, I created custom Django administrative actions and views. To enhance the customer experience, I also created a product recommendation engine. Lastly, I added internationalization to the project to support multiple languages.
